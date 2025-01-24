@@ -1,9 +1,37 @@
-# React + Vite
+# Movie Search Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web application that allows users to search for movies using an external API and manage their favorite movies. Built with React and Vite, it provides a modern and responsive user interface.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation Instructions](#installation-instructions)
+- [Usage Instructions](#usage-instructions)
+- [Contributing Guidelines](#contributing-guidelines)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation Instructions
 
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   
+   git clone https://github.com/Achrafchalkha/Movie-Search
+   cd [project-directory]
+
+2. Install dependencies:
+
+   npm install
+
+3. Start the development server:
+
+   npm run dev
+
+4. Open your browser and navigate to http://localhost:3000 (or the port specified in your configuration).
+
+## Usage Instructions
+
+- Search for movies using the search bar.
+- Add movies to your favorites by clicking the "Add to Favorites" button.
+- View your favorite movies in the "Favorites" page.
+
+## Contributing Guidelines
+
+Contributions to this project are welcome! Please follow the [Contributing Guidelines](CONTRIBUTING.md).
